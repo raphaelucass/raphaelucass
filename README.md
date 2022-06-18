@@ -1,4 +1,4 @@
-## Oi, meu nome é Raphael e seja bem-vindo(a) ao meu Git 😁
+## Oi, meu nome é Raphael e seja bem-vindo(a) ao meu GitHub 😁
 
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas
 - 🚀 Ambicioso por novos conhecimentos
