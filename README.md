@@ -17,7 +17,6 @@
   <img align="center" alt="Raphael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Raphael-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="Raphael-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img align="right" alt="Rafa-pic" src="https://github.com/raphaelucass/raphaelucass/blob/main/escanor-the-one.gif">
 </div>
   
    ##
@@ -25,4 +24,8 @@
 <div> 
   <a href="https://instagram.com/sabraphael" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "raphaelucasantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/raphael-barroso-955563242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/raphael-barroso-955563242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
+  
+  ![escanor-the-one](https://user-images.githubusercontent.com/99773187/174459179-56184d68-9669-459f-84e7-33a3b9b7d4aa.gif)
+  
+
