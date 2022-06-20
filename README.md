@@ -30,4 +30,6 @@
   
   ![escanor-the-one](https://user-images.githubusercontent.com/99773187/174459179-56184d68-9669-459f-84e7-33a3b9b7d4aa.gif)
   
+  ![Snake animation](https://github.com/raphaelucass/raphaelucass/blob/output/github-contribution-grid-snake.svg)
+  
 
